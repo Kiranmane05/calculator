@@ -6,13 +6,15 @@ body {
     background: #222;
     margin: 0;
     font-family: Arial, sans-serif;
+    
   }
+
   
   .calculator {
-    background: #333;
+    background: #639a3c;
     padding: 20px;
     border-radius: 15px;
-    box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+    box-shadow: 0 5px 20px rgba(204, 202, 202, 0.5);
   }
   
   #display {
@@ -38,14 +40,14 @@ body {
     font-size: 1.5rem;
     border: none;
     border-radius: 10px;
-    background: #555;
+    background: #486f2b;
     color: #fff;
     cursor: pointer;
     transition: background 0.3s;
   }
   
   button:hover {
-    background: #777;
+    background: #304a1d;
   }
   
   button.zero {
